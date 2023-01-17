@@ -7,4 +7,6 @@ const LottieVuePlayer = {
   },
 };
 
+export const Player = Player;
+
 export default LottieVuePlayer;
