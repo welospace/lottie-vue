@@ -7,6 +7,6 @@ const LottieVuePlayer = {
   },
 };
 
-export const Player = Player;
+export { Player } from "./Player.vue";
 
 export default LottieVuePlayer;
